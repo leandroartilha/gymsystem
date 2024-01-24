@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "59kKpjjv2rrj84dySyMVlrmdH+LZCh41JyfDYFCcNwo=",
+  "Source": "Academia.ApiGateway",
+  "BasePath": "_content/Academia.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{0061736F-1A1E-4AC3-992A-97F1F1CA951B}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../AlunosApi/Application/Services/Rotacao.cs">
+    <Files>
+      <File FileName="../../../AlunosApi/Api/Controllers/AlunosController.cs" Line="1" Column="1" />
+      <File FileName="../../../AlunosApi/Api/Resilience/CircuitBreaker.cs" Line="1" Column="1" />
+      <File FileName="../../../AlunosApi/Application/Services/AlunoService.cs" Line="53" Column="1" />
+      <File FileName="../../../AlunosApi/Api/Program.cs" Line="12" Column="62" />
+      <File FileName="../../../AlunosApi/Application/Rotacao.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Academia.ApiGateway" expanded="True">
+            <Node name="Academia.ApiGateway">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="AlunosApi" expanded="True" selected="True">
+            <Node name="Api">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Resilience" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Academia.ApiGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AcadGateway FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/leandroartilha/Documents/Sistemas/SistemaAcademia/AlunosApi/Application/Services/Rotacao.cs" line="8" column="1" />
+      <Breakpoint file="/Users/leandroartilha/Documents/Sistemas/SistemaAcademia/AlunosApi/Application/Services/AlunoService.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

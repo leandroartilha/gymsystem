@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{055533D7-0D9D-4AB3-A595-D97399AB2C6E}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PagamentoAcademia/appsettings.json">
+    <Files>
+      <File FileName="../../AlunosApi/Api/Controllers/AlunosController.cs" />
+      <File FileName="PagamentoAcademia/Controllers/PagamentoController.cs" Line="25" Column="1" />
+      <File FileName="PagamentoAcademia/Services/IPagamentoService.cs" />
+      <File FileName="PagamentoAcademia/Services/PagamentoService.cs" />
+      <File FileName="PagamentoAcademia/Repositories/PagamentoRepository.cs" Line="22" Column="10" />
+      <File FileName="PagamentoAcademia/Entities/Aluno.cs" />
+      <File FileName="../../AlunosApi/Application/DTOs/AlunoDTO.cs" />
+      <File FileName="../../AlunosApi/Application/Services/AlunoService.cs" />
+      <File FileName="../../AlunosApi/Domain/Entities/Aluno.cs" />
+      <File FileName="PagamentoAcademia/Program.cs" Line="37" Column="26" />
+      <File FileName="../../AlunosApi/Infra.Ioc/DependencyInjectionApi.cs" />
+      <File FileName="../../AlunosApi/Api/Program.cs" />
+      <File FileName="PagamentoAcademia/appsettings.json" Line="3" Column="98" />
+      <File FileName="PagamentoAcademia/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PagamentoAcademia" expanded="True">
+            <Node name="PagamentoAcademia">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PagamentoAcademia PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/leandroartilha/Documents/Sistemas/SistemaAcademia/Pagamento/PagamentoAcademia/PagamentoAcademia/Controllers/PagamentoController.cs" relfile="PagamentoAcademia/Controllers/PagamentoController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
